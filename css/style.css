@@ -10,17 +10,11 @@
     text-align: center;
 }
 
-.title {
-    background-color: yellowgreen;
-    border: black;
-    float: right;
-    clear: both;
-}
-
 .div {
     background-color: gray;
     border: 1px solid black;
     padding: 5px;
+    margin-bottom: 5px;
 }
 
 #p1 {
